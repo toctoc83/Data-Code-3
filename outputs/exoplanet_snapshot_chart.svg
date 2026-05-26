@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="#0b1020"/>
+  <text x="40" y="55" font-family="Arial, sans-serif" font-size="30" fill="#ffffff" font-weight="700">NASA Exoplanet Archive Snapshot</text>
+  <text x="40" y="88" font-family="Arial, sans-serif" font-size="16" fill="#b8c7ff">Snapshot date: 2026-05-21</text>
+
+  <line x1="220" y1="430" x2="820" y2="430" stroke="#ffffff" stroke-width="2" opacity="0.7"/>
+  <line x1="220" y1="120" x2="220" y2="430" stroke="#ffffff" stroke-width="2" opacity="0.7"/>
+
+  <rect x="260" y="184" width="95" height="246" fill="#6aa9ff"/>
+  <rect x="405" y="395" width="95" height="35" fill="#9bffb0"/>
+  <rect x="550" y="120" width="95" height="310" fill="#ffd36a"/>
+  <rect x="695" y="140" width="95" height="290" fill="#ff7aa8"/>
+
+  <text x="307" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ffffff">Confirmed</text>
+  <text x="307" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ffffff">planets</text>
+  <text x="452" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ffffff">TESS</text>
+  <text x="452" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ffffff">confirmed</text>
+  <text x="597" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ffffff">TESS</text>
+  <text x="597" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ffffff">candidates</text>
+  <text x="742" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ffffff">Light curves</text>
+  <text x="742" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#ffffff">scaled</text>
+
+  <text x="307" y="174" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#ffffff" font-weight="700">6,291</text>
+  <text x="452" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#ffffff" font-weight="700">895</text>
+  <text x="597" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#ffffff" font-weight="700">7,931</text>
+  <text x="742" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#ffffff" font-weight="700">130M</text>
+
+  <text x="40" y="500" font-family="Arial, sans-serif" font-size="13" fill="#b8c7ff">Values are from a NASA Exoplanet Archive homepage snapshot. Light curves are scaled for readability.</text>
+</svg>
