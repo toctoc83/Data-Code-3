@@ -1,0 +1,17 @@
+Space Data Analysis Output Summary
+==================================
+
+Data source: NASA Exoplanet Archive homepage snapshot.
+Snapshot date shown by source: 2026-05-21.
+
+Key values:
+- Confirmed planets: 6291
+- TESS confirmed planets: 895
+- TESS project candidates: 7931
+- Transit survey light curves shown on homepage: 130041578
+
+Simple interpretation:
+The NASA Exoplanet Archive shows more than six thousand confirmed exoplanets. TESS has confirmed hundreds of planets and still has thousands of project candidates that may be studied further. This makes exoplanet research a very data-rich space science topic.
+
+Note:
+This output is a repository snapshot. The Python script can download a more detailed planet table from the NASA Exoplanet Archive and generate deeper charts when run locally.
